@@ -11,6 +11,4 @@ nltk
 tqdm
 beautifulsoup4
 textblob
-lightgbm==3.2.1
 xgboost==1.2.1
-catboost==0.25.1
