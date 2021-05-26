@@ -5,12 +5,12 @@ numpy
 matplotlib
 pandas
 cloudpickle>=0.6.0
-sklearn
+scikit-learn==0.24.2
 regex
 nltk
 tqdm
 beautifulsoup4
 textblob
-lightgbm
-xgboost
-catboost
+lightgbm==3.2.1
+xgboost==1.2.1
+catboost==0.25.1
