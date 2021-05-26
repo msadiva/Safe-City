@@ -1,15 +1,8 @@
-certifi==2019.11.28
-Click==7.0
-Flask==1.1.1
+flask
 gunicorn==19.9.0
-itsdangerous==1.1.0
 joblib==0.14.0
-threadpoolctl
-Jinja2==2.10.1
-MarkupSafe==1.1.1
-Werkzeug==0.15.5
 numpy
-matplotlib==2.1.1
+matplotlib
 pandas
 cloudpickle>=0.6.0
 sklearn
