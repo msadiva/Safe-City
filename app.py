@@ -1,7 +1,5 @@
 import os
 import re
-import nltk
-from nltk.corpus import stopwords
 import pandas as pd
 from textblob import TextBlob
 import pickle
@@ -12,7 +10,6 @@ from tqdm import tqdm
 from flask import Flask, jsonify, request
 from flask import render_template
 import joblib
-from bs4 import BeautifulSoup
 import flask
 
 app = Flask(__name__)
