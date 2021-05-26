@@ -2,13 +2,10 @@ flask
 gunicorn==19.9.0
 joblib==0.14.0
 numpy
-matplotlib
 pandas
 cloudpickle>=0.6.0
 scikit-learn==0.24.2
 regex
-nltk
 tqdm
-beautifulsoup4
 textblob
 xgboost==1.2.1
